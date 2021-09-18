@@ -1,0 +1,16 @@
+{
+    "name": "walnut/lib_transactioncontext",
+    "authors": [
+        {
+            "name": "Marian Kostadinov",
+            "email": "manchokapitancho@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Walnut\\Lib\\TransactionContext\\": "src/"
+		}
+	},
+	"require": {},
+	"require-dev": {}
+}
